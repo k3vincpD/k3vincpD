@@ -39,5 +39,16 @@
 ### Usar el comando (gcc --version) para ver si esta trabajando el c 
 ### Usar el comando (pwd) para saber en que erachivo estamos trabajando.
 ### Usar el comando  (echo *.el archico que quiero que sea ignorado >> .gitignored) 
-###
 
+# <strong> Codigo realizado 
+
+---
+<code>
+
+```c
+#include <stdio.h>
+
+void main ()
+{
+    printf("hello word :)\n");
+}
